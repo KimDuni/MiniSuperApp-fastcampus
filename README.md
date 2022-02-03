@@ -67,3 +67,5 @@
 관련2: [팀워크](https://soojin.ro/blog/teamwork)
 <br>
 관련3: [개인과 팀이 성장하는 모바일 개발 환경](https://soojin.ro/blog/mobile-platform)
+
+변경 테스트
